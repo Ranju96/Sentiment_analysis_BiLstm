@@ -21,7 +21,9 @@ After training machine learning models, a deep learning model, Transformer based
 
 #### Results
 1.classification model  performed best  auc score of 0.74 random forest as compared to other machine learning models
+
 2.BILSTM model-(sequential) performed best  auc score of 0.98 as compared to other machine learning models.
-3.Transformer based model with BERT-based word embedding. performed best  auc score of 0.51as compared to other machine learning models.
+
+3.Transformer based model with BERT-based word embedding. performed best  auc score of 0.63 as compared to other machine learning models.
 
 
