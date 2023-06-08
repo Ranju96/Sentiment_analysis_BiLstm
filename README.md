@@ -1,4 +1,4 @@
-# Sentiment_analysis_BiLstm
+# Sentiment_analysis
 
 ##Dataset
 emails.csv
@@ -6,16 +6,17 @@ tweet_airline _sentiment.csv from kaggle
 twet.png 
 
 ###Methodology
-Machine learning models applied:
+Part-1
+Sentiment analysis using Classification 
 
     1.Random Forest Classifier
     2.Multinomial Naive Bayes Classifier
     3.Support Vector Classifier
     
-2. Deep learning
+2. Sentiment analysis using Bidirectional LSTM 
 After training machine learning models, a deep learning model, Bidirectional LSTM model is trained on the given dataset.
 
-2. Deep learning
+2.Sentiment analysis using Transformer based model with BERT-based word embedding
 After training machine learning models, a deep learning model, Transformer based model with BERT-based word embedding. is trained on the given dataset.
 
 ####Results
